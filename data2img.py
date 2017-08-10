@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# data2img – Converts data to an image.  Exactly what it says.
+# Copyright (c) 2017 Ben Wiederhake
+# MIT licensed.  So, do whatever you want.
 
 from PIL import Image
 
